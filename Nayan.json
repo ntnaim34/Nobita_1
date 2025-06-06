@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "nobita-bot",
-  "PREFIX": "*",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
