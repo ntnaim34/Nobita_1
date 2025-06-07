@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "bot","naim","nobita"
+    name: "bot",
     version: "1.0.0",
     aliases: ["mim"],
     permission: 0,
